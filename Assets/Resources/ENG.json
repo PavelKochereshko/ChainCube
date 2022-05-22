@@ -1,0 +1,12 @@
+{
+	"translations" : [
+	  {
+		"Key": "Score",
+		"Text": "You score:"
+	  },
+	  {
+		"Key": "TapToPlay",
+		"Text": "TapToPlay"
+	  }
+	]	
+  }

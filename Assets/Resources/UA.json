@@ -1,0 +1,12 @@
+{
+	"translations" : [
+	  {
+		"Key": "Score",
+		"Text": "Твій результат:"
+	  },
+	  {
+		"Key": "TapToPlay",
+		"Text": "Торкніться, щоб грати"
+	  }
+	]
+  }
